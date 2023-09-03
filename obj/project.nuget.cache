@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "VDbRd6aHhJN95fqhcpqe5tiHXL4/m7imcyX+9aKc6Sa+9PbqfO8vgnzt8AtSNk89OynsNhQjd1Ln//zcuZOqkg==",
+  "success": true,
+  "projectFilePath": "/opt/homebrew/bin/MovieSearcher/MovieSearcher.csproj",
+  "expectedPackageFiles": [
+    "/Users/subhrapratik/.nuget/packages/j2n/2.0.0/j2n.2.0.0.nupkg.sha512",
+    "/Users/subhrapratik/.nuget/packages/lucene.net/4.8.0-beta00016/lucene.net.4.8.0-beta00016.nupkg.sha512",
+    "/Users/subhrapratik/.nuget/packages/lucene.net.analysis.common/4.8.0-beta00016/lucene.net.analysis.common.4.8.0-beta00016.nupkg.sha512",
+    "/Users/subhrapratik/.nuget/packages/lucene.net.queries/4.8.0-beta00016/lucene.net.queries.4.8.0-beta00016.nupkg.sha512",
+    "/Users/subhrapratik/.nuget/packages/lucene.net.queryparser/4.8.0-beta00016/lucene.net.queryparser.4.8.0-beta00016.nupkg.sha512",
+    "/Users/subhrapratik/.nuget/packages/lucene.net.sandbox/4.8.0-beta00016/lucene.net.sandbox.4.8.0-beta00016.nupkg.sha512",
+    "/Users/subhrapratik/.nuget/packages/microsoft.extensions.configuration.abstractions/2.0.0/microsoft.extensions.configuration.abstractions.2.0.0.nupkg.sha512",
+    "/Users/subhrapratik/.nuget/packages/microsoft.extensions.primitives/2.0.0/microsoft.extensions.primitives.2.0.0.nupkg.sha512",
+    "/Users/subhrapratik/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512",
+    "/Users/subhrapratik/.nuget/packages/system.runtime.compilerservices.unsafe/4.4.0/system.runtime.compilerservices.unsafe.4.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
