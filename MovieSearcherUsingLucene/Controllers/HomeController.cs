@@ -45,7 +45,7 @@ public class HomeController : Controller
     }
     public List<string> MovieSearch(string query)
     {
-         var movieFileText = System.IO.File.ReadAllText("/opt/homebrew/bin/MovieSearcher/MovieSearcherUsingLucene/MoviesDirectory.json");
+         var movieFileText = System.IO.File.ReadAllText("MoviesDirectory.json");
             //var jsons = JsonConvert.SerializeObject(movieFileText,Formatting.Indented);
             // var movies = JsonSerializer.Deserialize<List<Movie>>(movieFileText, new Json
             // {
