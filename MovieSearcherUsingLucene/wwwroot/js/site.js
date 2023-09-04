@@ -37,6 +37,7 @@ function display(res){
     (document).getElementById("result-box").innerHTML = "<ul>" + content.join('') + "</ul>";
 }
 function selectInput(list){
+   if(list != null)
     inputBox.value = list.innerHTML ;
     resultBox.innerHTML = '';
 }
