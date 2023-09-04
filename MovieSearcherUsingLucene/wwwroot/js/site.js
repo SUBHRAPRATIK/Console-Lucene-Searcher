@@ -30,9 +30,13 @@ function func(){
 }
 function display(res){
     const content = res.map((list) => {
-        return "<li>" + list + "</li>";
+        return "<li onclick=selectInput(this)>" + list + "</li>";
     });
     
 
     (document).getElementById("result-box").innerHTML = "<ul>" + content.join('') + "</ul>";
+}
+function selectInput(list){
+    inputBox.value = list.innerHTML ;
+    resultBox.innerHTML = '';
 }
