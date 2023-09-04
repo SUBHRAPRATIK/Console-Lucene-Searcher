@@ -74,7 +74,7 @@ namespace MovieSearch{
     
 public class MovieSearchEngine
 {
-    private readonly string _indexDir = "/opt/homebrew/bin/MovieSearcher";
+    private readonly string _indexDir = "~/MovieSearcherUsingLucene";
 
     public void AddMovieToIndex(IEnumerable<Movie> movies)
     {
